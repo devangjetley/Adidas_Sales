@@ -15,16 +15,16 @@ Key Insights:
 •	Units Sold Comparison Across Products: Comparison of units sold among different products to identify the top seller.
 
 Research Questions:
-Q1) What is the total sales amount for each retailer?
-Q2) What is the average price per unit for each product sold?
-Q3) How do total sales vary across different regions?
-Q4) Which five products had the highest units sold?
-Q5) What is the operating margin for each retailer, and which retailer has the highest margin?
-Q6) Which sales method is the most frequently used?
-Q7) Which products are generating the highest total sales and profits, providing insights into the most successful items in your inventory?
-Q8) What is the average profit margin for each state?
-Q9) Which cities generated the highest total sales?
-Q10) How do units sold compare across different products, and which product has the highest sales volume?
+1) What is the total sales amount for each retailer?
+2) What is the average price per unit for each product sold?
+3) How do total sales vary across different regions?
+4) Which five products had the highest units sold?
+5) What is the operating margin for each retailer, and which retailer has the highest margin?
+6) Which sales method is the most frequently used?
+7) Which products are generating the highest total sales and profits, providing insights into the most successful items in your inventory?
+8) What is the average profit margin for each state?
+9) Which cities generated the highest total sales?
+10) How do units sold compare across different products, and which product has the highest sales volume?
 
 Tools Used:
 •	SQL: For querying and manipulating data.
